@@ -1,0 +1,8 @@
+h1. Groovy HP Quality Center Graphs
+
+For any bug let me know at "lab2@codespin.ch":mailto:lab2@codespin.ch
+
+
+h2. Description
+
+Automatic extraction and generation of defects (and testcases) graphs in groovy based on data in HP Quality Center
